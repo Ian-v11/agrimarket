@@ -1,4 +1,4 @@
-lutter app demo con arquitectura BLoC que incluye:
+Flutter app demo con arquitectura BLoC que incluye:
 
 * Catálogo con imágenes desde URL, búsqueda local y filtros (categoría, locación y precio).
 * Carrito de compras con animaciones, cantidades y total.
